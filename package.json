@@ -1,0 +1,19 @@
+{
+  "name": "comp229-assignment2",
+  "version": "1.0.0",
+  "type": "module",
+  "repository": "https://github.com/kentayamada-centennial/comp229-assignment2.git",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "helmet": "^7.1.0",
+    "lodash": "^4.17.21",
+    "mongoose": "^8.1.2"
+  }
+}
